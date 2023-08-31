@@ -10,6 +10,3 @@ Connect with us in one place.
 | [Github](https://github.com/gdsc-Poornima-University)
 | [Website](https://gdscjgec.github.io/)
 | [Mail Us](mailto:gdsc.poornimauniversity@gmail.com)
-<!-- | [Discord](https://discord.gg/MxX4ZhPxKa) -->
-<!-- | [Twitter](https://twitter.com/gdscjgec) -->
-<!-- | [Facebook](https://www.facebook.com/gdscjgec) -->
