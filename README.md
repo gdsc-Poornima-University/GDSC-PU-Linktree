@@ -4,7 +4,7 @@ All GDSC PU Social Handles together, Our Linktree.
 Connect with us in one place.
 
 [Linktree](https://gdsc-poornima-university.github.io/GDSC-PU-Linktree/)
- [Chapter](https://gdsc.community.dev/poornima-university-jaipur/)
+| [Chapter](https://gdsc.community.dev/poornima-university-jaipur/)
 | [LinkedIn](https://www.linkedin.com/in/gdsc-poornima-university-34696528a)
 | [Youtube](https://www.youtube.com/@GDSCPoornimaUniversity-qf7fw)
 | [Instagram](https://www.instagram.com/gdsc.poornima/)
